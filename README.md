@@ -15,8 +15,10 @@ Linkedin: https://web.dio.me/project/criando-agentes-de-criacao-de-dashboards-co
 
 -------------------
 
-A atividade consistiu no uso de IA (ChatGPT, Claude) para automatizar respectivas tarefas presentes no processo de análise, compillance, filtros, entre outros.
-Com a IA, foi possivevl agilizar processos manuais, tornando o trabalho mais ágil e entregando um resultado visual elegante com a criação de um site (HTML) para 
+A atividade consistiu no uso de IA (ChatGPT, Claude) para automatizar respectivas tarefas presentes no processo de análise, compillance, filtros, entre outros, através de um script feito em python, sendo totalmente reutilizavel para qualquer outro tipo de banco de Dados desde que as regras no markDown sejam definidas.
+Com a IA, foi possivel agilizar processos manuais, tornando o trabalho mais ágil e entregando um resultado visual elegante com a criação de um site (HTML) para 
 a apresentação de uma DashBoard, capaz de filtrar a receita por Vendedor em diferentes Meses do Ano.
+
+O arquivo MarkDown (.md) foi usado para definir as regras de Negócio do script para que a IA cumprisse todas as exigências de forma exata, sem alucinar.
 
 Os dados no banco foram salvos em um JSON, sem nenhum tipo de dado sensível; é uma atividade totalmente voltada para educação.
